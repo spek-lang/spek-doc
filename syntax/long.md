@@ -1,6 +1,6 @@
 # long
 
-A **long** is a value type which stores a signed 64-bit integer value.
+A **long** is a value type which stores a signed 64-bit integral value. The underlying type in the .NET framework is **System.Int64**.
 
 | Default | Minimum | Maximum |
 | -- | -- | -- |

@@ -1,6 +1,6 @@
 # Struct
 
-A **Struct** is an inherited value type that can be used to create complex data types of related values.
+A **Struct** is a value type *base* that can be inherited to create complex data types of related values.
 
 Examples of **structs**:
 * The **Message** type used for passing data between **Agents**.

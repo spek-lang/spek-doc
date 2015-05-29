@@ -1,6 +1,6 @@
 # float
 
-A **float** is a value type which stores a signed 32-bit floating-point value.
+A **float** is a value type which stores a 32-bit floating-point value. The underlying type in the .NET framework is **System.Single**.
 
 | Precision | Default |
 | -- | -- |
